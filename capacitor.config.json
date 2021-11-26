@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "Ionic Angular Supabase Auth Starter",
+	"appId": "eu.mwcp.auth",
+	"appName": "Auth Starter",
 	"webDir": "www",
 	"bundledWebRuntime": false
 }

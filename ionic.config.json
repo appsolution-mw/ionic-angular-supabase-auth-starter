@@ -1,5 +1,5 @@
 {
-  "name": "Ionic Angular Supabase Auth Starter",
+  "name": "Auth Starter",
   "integrations": {
     "capacitor": {}
   },
