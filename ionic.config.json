@@ -1,0 +1,7 @@
+{
+  "name": "Ionic Angular Supabase Auth Starter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

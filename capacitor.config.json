@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Ionic Angular Supabase Auth Starter",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
